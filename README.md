@@ -1,1 +1,1 @@
-# MTH337-code
+# sample-codes
